@@ -3,32 +3,29 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.tienda.view.ui.fragments.OrderFragment">
->
+    tools:context="com.example.tienda.view.ui.fragments.ComentsFragment">
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rvOrder"
+        android:id="@+id/rvComments"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="match_parent"/>
     <RelativeLayout
-        android:id="@+id/rlBaseOrder"
+        android:id="@+id/rlBaseComments"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
         <View
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_centerInParent="true"
             android:alpha="0.2"
             android:background="@color/primaryColor" />
 
         <ProgressBar
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_centerInParent="true" />
-
-
+            android:layout_centerInParent= "true"/>
 
     </RelativeLayout>
+
 
 </FrameLayout>
