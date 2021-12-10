@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594638873242",
+    "project_id": "tiendaemilio-a2780",
+    "storage_bucket": "tiendaemilio-a2780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594638873242:android:2406754c46c29add007523",
+        "android_client_info": {
+          "package_name": "com.example.tienda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594638873242-s6mbsjjd1jj46f3hnqno90t9mqkfrji7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIxDSJkXApFbD2dVm-ZqeJ0HKpXr8HSTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594638873242-s6mbsjjd1jj46f3hnqno90t9mqkfrji7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

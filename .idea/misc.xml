@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ssrs_/Desktop/ProyectoCiclo4/app/src/main/res/drawable/ic_outline_shopping_cart_24.xml" value="0.1" />
         <entry key="..\:/Users/ssrs_/Desktop/ProyectoCiclo4/app/src/main/res/layout/activity_splash_screen_activity.xml" value="0.12" />
+        <entry key="..\:/Users/ssrs_/Desktop/ProyectoCiclo4/app/src/main/res/layout/item_product.xml" value="0.1" />
+        <entry key="..\:/Users/ssrs_/Desktop/ProyectoCiclo4/app/src/main/res/menu/bnv_menu.xml" value="0.1" />
         <entry key="..\:/Users/ssrs_/Desktop/ProyectoCiclo4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Users/ssrs_/Desktop/ProyectoCiclo4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.11354166666666667" />
       </map>

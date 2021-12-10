@@ -3,6 +3,7 @@ package com.example.tienda.view.ui.activities
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.tienda.R
 import com.example.tienda.databinding.ActivitySplashScreenActivityBinding
 import android.view.animation.AnimationUtils
 import android.view.animation.Animation
